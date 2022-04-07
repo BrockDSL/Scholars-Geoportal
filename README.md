@@ -47,9 +47,13 @@ The following is a brief tutorial guiding the user through search and download s
     
 7. Click each zip file in turn to download the data to your local DOWNLOADS directory.
 
+### Unzipping a file
+
+1. If you are using Chrome, click the UP arrow beside the downloaded file (at the bottom of the window) and click "Show in Folder".
  
- 
- 
+     ![unzip](portal6.jpg)
+     
+     
 
   
 **This tutorial is brought to you by the Brock University Digital Scholarship Lab.  For more information on the DSL check out our website at [www.brocku.ca/library/dsl/](https://brocku.ca/library/dsl/) or you can e-mail us at dsl@brocku.ca.**  
