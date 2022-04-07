@@ -18,7 +18,7 @@ The following is a brief tutorial guiding the user through search and download s
 8. From the results list, find "Land Cover Region"
 9. Click the blue DETAILS button to access metadata about the resource. 
 10. Click the blue button below the data title "Add-1/6"
-11. Add the 2020 data layer.
+11. Add the 2020 data layer. When prompted with the Conditions of Use statement, click Accept to continue.
 
     ![data layer](portal2.jpg)  
     
@@ -28,14 +28,25 @@ The following is a brief tutorial guiding the user through search and download s
 
     ![roads](portal3.jpg)  
     
-15. 
+15. Repeat the above steps to search, browse and add data layers to the map.
 
 
 ### Downloading data
 
-Content
+1. Click the Download tab.
+2. Select "Download by area of interest".
+3. Select "Draw an area".
+4. Use the rectangle tool to draw a box on the map view. If you want to define a new selection area, click the X beside the rectangle tool to clear the map.
 
-### Etc.
+    ![download](portal4.jpg)
+    
+5. Click the blue Download button. Depending on the number of layers, this could take several minutes.
+6. The options for downloading clipped data will appear in the "My Download List"
+
+    ![download2](portal5.jpg)
+    
+7. Click each zip file in turn to download the data to your local DOWNLOADS directory.
+
  
  
  
