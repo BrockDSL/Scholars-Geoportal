@@ -1,11 +1,26 @@
 ![Tool Logo][imglogo]
 
 
-# Title
-Description of contents
+# Scholars' GeoPortal - How to...
+The following is a brief tutorial guiding the user through search and download steps using Scholars GeoPortal, a search and discovery platform directed towards Ontario Universities.
 
-### First header
-Content
+### Navigating the Portal
+1. Go to [http://geo.scholarsportal.info/](http://geo.scholarsportal.info/)
+2. If you are accessing the geoportal off-campus, click the login link at the top, middle of the page. Select your institution and sign in using your credentials.
+3. Select the Place or Address search option and enter "St. Catharines, ON".
+4. Click Search.
+
+    ![search](portal1.jpg)
+
+5. Click ZOOM for the geocoded result. The map zooms to the St. Catharines area.
+6. Select the Data search option and enter a keyword, such as "land cover".
+7. Click Search.
+8. From the results list, find "Land Cover Region"
+9. Click the blue DETAILS button to access metadata about the resource. 
+10. Click the blue button below the data title "Add-1/6"
+11. Add the 2020 data layer.
+12. 
+
 
 ### Second Header
 
