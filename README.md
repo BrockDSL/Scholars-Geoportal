@@ -19,10 +19,19 @@ The following is a brief tutorial guiding the user through search and download s
 9. Click the blue DETAILS button to access metadata about the resource. 
 10. Click the blue button below the data title "Add-1/6"
 11. Add the 2020 data layer.
-12. 
+
+    ![data layer](portal2.jpg)  
+    
+12. Click "Back to Results" below the search window.
+13. Enter a new search term in the search window (i.e. "roads").
+14. Find the layer named "Major Roads Line" and add the 2020 layer to the map.
+
+    ![roads](portal3.jpg)  
+    
+15. 
 
 
-### Second Header
+### Downloading data
 
 Content
 
