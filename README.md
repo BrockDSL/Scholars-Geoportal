@@ -53,10 +53,12 @@ The following is a brief tutorial guiding the user through search and download s
  
      ![unzip](portal6.jpg)
      
-     
+2. Right-click the zip folder and select "Extract all". You can identify an appropriate location or accept the default (MY DOWNLOADS).
+3. Run your GIS software and add the files according to your workflow.
 
+---
   
-**This tutorial is brought to you by the Brock University Digital Scholarship Lab.  For more information on the DSL check out our website at [www.brocku.ca/library/dsl/](https://brocku.ca/library/dsl/) or you can e-mail us at dsl@brocku.ca.**  
+**This tutorial is brought to you by the Brock University Map, Data & GIS Library.  For more information on the DSL check out our website at [www.brocku.ca/library/dsl/](https://brocku.ca/library/dsl/) or you can e-mail us at dsl@brocku.ca.**  
   
 You can also find us on:  
 [Facebook](https://www.facebook.com/Brock-University-Digital-Scholarship-Lab-349407235866792/)  
