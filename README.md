@@ -79,4 +79,4 @@ You can also find us on:
 
 <!--- Please use reference style images so that it is easier to update pictures later --->
 
-![MDGLlogo](MDGL_logo_sm.jpg)
+![MDGLlogo](MapDataGIS_col.png)
