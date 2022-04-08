@@ -1,4 +1,4 @@
-![Tool Logo][imglogo]
+![Tool Logo][portal7.jpg]
 
 
 # Scholars' GeoPortal - How to...
