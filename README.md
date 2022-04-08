@@ -1,5 +1,3 @@
-![Tool Logo](portal7.jpg)
-
 
 # Scholars' GeoPortal - How to...
 The following is a brief tutorial guiding the user through search and download steps using Scholars GeoPortal, a search and discovery platform directed towards Ontario Universities.
