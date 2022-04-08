@@ -56,15 +56,19 @@ The following is a brief tutorial guiding the user through search and download s
 2. Right-click the zip folder and select "Extract all". You can identify an appropriate location or accept the default (MY DOWNLOADS).
 3. Run your GIS software and add the files according to your workflow.
 
+A detailed User Guide is available here [https://learn.scholarsportal.info/all-guides/geoportal/usinggeoportal/](https://learn.scholarsportal.info/all-guides/geoportal/usinggeoportal/)
+
 ---
   
-**This tutorial is brought to you by the Brock University Map, Data & GIS Library.  For more information on the DSL check out our website at [www.brocku.ca/library/dsl/](https://brocku.ca/library/dsl/) or you can e-mail us at dsl@brocku.ca.**  
+ 
+This tutorial is brought to you by the [Brock University Map, Data & GIS Library](https://brocku.ca/library/mdgl/)  E-mail us at [maplib@brocku.ca](mailto:maplib@brocku.ca)
   
 You can also find us on:  
-[Facebook](https://www.facebook.com/Brock-University-Digital-Scholarship-Lab-349407235866792/)  
-[Twitter](https://twitter.com/brock_dsl)  
-[Instagram](https://www.instagram.com/brock_dsl/?hl=en)  
-[YouTube](https://www.youtube.com/channel/UC2eEqPkDo-1N3qilxv-N_1g/featured?view_as=subscriber)
+[Facebook](https://www.facebook.com/Brock-University-Map-Data-GIS-Library-107927255178257)  
+[Twitter](https://twitter.com/BrockU_MDGL)  
+[Instagram](https://www.instagram.com/brockmdgl/)   
+ 
+
 
 
 
@@ -77,4 +81,4 @@ You can also find us on:
 
 <!--- Please use reference style images so that it is easier to update pictures later --->
 
-[imglogo]: INSERT LOGO FILENAME HERE
+![MDGLlogo](MDGL_logo_sm.jpg)
